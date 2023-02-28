@@ -3,4 +3,4 @@
 
 # Join Our Community
 We are learning, building and developing together
-Email us: # opensourcesaipali@gmail
+# Email us: opensourcesaipali@gmail
